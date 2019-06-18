@@ -23,9 +23,30 @@ I designed lessons which ensured I could stiumulate engaging conversation while 
 I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to train clients and being requested to assist with sales visits and
 client trainings.
 
-
+#### Data analysis
+While supporting clients with their financial data models, I used both excel and a proporietary quantitative analysis platform within Bloomberg. I had to work with data packages and translate
+the client's models into either excel using a Bloomberg data API or build it within the platform. This included clients across all asset classes, however the majority of the work
+was supporting portfolio managers with data screening for equities.
 
 ## Education
+Makers Academy (June 2019 - Present)
+Software development bootcamp
+
+Canterbury Christ Church University (September 2016 - August 2017)
+PGCE Science - Pass
+
+King's College London (September 2014 - September 2015)
+MSc Biomedical and Molecular Research - Pass with Merit
+
+King's College London (September 2010 - August 2013)
+BSc Hons Pharmacology - Upper Second Class with Honours
+
+Campbell Harris College (Sept 2008 - July 2010)
+A level Chemistry - A
+A level Biology - A
+A level Mathematics - B
+A level English language and literature - B
+AS level Physics - B
 
 #### Makers Academy (start_date to end_date)
 
@@ -38,11 +59,6 @@ client trainings.
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
 #### Any other qualifications
 
