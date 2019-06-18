@@ -48,23 +48,28 @@ A level Mathematics - B
 A level English language and literature - B
 AS level Physics - B
 
-#### Makers Academy (start_date to end_date)
+## Professional experience 
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
+Equity Specialist
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
+additional successful sales.
+
+Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
+to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
+
+Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
+Teacher of Science
+
+Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
+Subsequently graded as an outstanding teacher for my practice with positive feedback from Ofsted (2017) inspections.
+
+Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
+conduct and grade students for A-level practical examinations.
 
 
-#### Any other qualifications
+## Interests
 
-## Experience
+Breakdancing for fun and commercially (7 years).
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
