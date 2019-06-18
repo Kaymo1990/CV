@@ -1,25 +1,29 @@
-## Your Name
+## Khurram Mohammed
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am currently training to be a developer with Makers Academy. I have a varied background, having worked most recently within the financial technology sector, as an equity specialist.
+This was a client facing role which also involved working very closely with the developers to ensure the products could be integrated seamlessly within a firm. Working within the
+financial technology sector is where I had come to learn I had a much stronger affinity towards the technology side of my work. Prior to this I completed the Teach First leadership 
+development program. This involved working in an underperforming academy as a science teacher for two years, in order to manage and raise aspirations of the students who come from 
+lower socioeconomic backgrounds. Academically my background is within biological sciences with a MSc in biochemistry and BSc Hons in pharmacology, both from King's College London.
+
+Having a varied professional background, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
 
 ## Skills
 
-#### This Skill
+#### Client management
+I worked within the financial sales and analytics department at Bloomberg as an equity specialist. This role included proactive work, through organising visits to client offices.
+The visits normally consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow.
+Clients with existing products may also report issues and improvements, therefore I would need to liaise with the developers to integrate these solutions. Through this approach I was able
+to win awards for my proactive work on product campaigns, in addition to winning a quarterly award for fastest client resolutions.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Teaching and training
+During my time on the Teach First program, I was tasked with producing results which met government benchmarks for both my GCSE and A-level students.
+I was able to achieve this by having a strong mastery of the curriculum, in addition to an understanding of scientific pedagogy and learning psychology.
+I designed lessons which ensured I could stiumulate engaging conversation while covering the syllabus, my lessons were inclusive of students of all abilities and needs.
+I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to train clients and being requested to assist with sales visits and
+client trainings.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
