@@ -41,12 +41,12 @@ King's College London (September 2014 - September 2015)
 King's College London (September 2010 - August 2013)
 •BSc Hons Pharmacology - Upper Second Class with Honours
 
-Campbell Harris College (Sept 2008 - July 2010)
-•A level Chemistry - A
-•A level Biology - A
-•A level Mathematics - B
-•A level English language and literature - B
-•AS level Physics - B
+Campbell Harris College (Sept 2008 - July 2010) 
+•A level Chemistry - A 
+•A level Biology - A 
+•A level Mathematics - B 
+•A level English language and literature - B 
+•AS level Physics - B 
 
 ## Professional experience 
 
