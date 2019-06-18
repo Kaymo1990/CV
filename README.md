@@ -29,47 +29,47 @@ the client's models into either excel using a Bloomberg data API or build it wit
 was supporting portfolio managers with data screening for equities.
 
 ## Education
-Makers Academy (June 2019 - Present)
-Software development bootcamp
+Makers Academy (June 2019 - Present) \n
+•Software development bootcamp
 
 Canterbury Christ Church University (September 2016 - August 2017)
-PGCE Science - Pass
+•PGCE Science - Pass
 
 King's College London (September 2014 - September 2015)
-MSc Biomedical and Molecular Research - Pass with Merit
+•MSc Biomedical and Molecular Research - Pass with Merit
 
 King's College London (September 2010 - August 2013)
-BSc Hons Pharmacology - Upper Second Class with Honours
+•BSc Hons Pharmacology - Upper Second Class with Honours
 
 Campbell Harris College (Sept 2008 - July 2010)
-A level Chemistry - A
-A level Biology - A
-A level Mathematics - B
-A level English language and literature - B
-AS level Physics - B
+•A level Chemistry - A
+•A level Biology - A
+•A level Mathematics - B
+•A level English language and literature - B
+•AS level Physics - B
 
 ## Professional experience 
 
 Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
 Equity Specialist
 
-Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
+•Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
 additional successful sales.
 
-Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
+•Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
 to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
 
 Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
 Teacher of Science
 
-Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
+•Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
 Subsequently graded as an outstanding teacher for my practice with positive feedback from Ofsted (2017) inspections.
 
-Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
+•Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
 conduct and grade students for A-level practical examinations.
 
 
 ## Interests
 
-Breakdancing for fun and commercially (7 years).
+•Breakdancing for fun and commercially (7 years).
 
