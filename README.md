@@ -50,7 +50,7 @@ was supporting portfolio managers with data screening for equities.
 
 ## Professional experience 
 
-Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
+#### Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
 Equity Specialist
 
 •Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
@@ -59,7 +59,7 @@ additional successful sales.
 •Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
 to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
 
-Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
+#### Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
 Teacher of Science
 
 •Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
